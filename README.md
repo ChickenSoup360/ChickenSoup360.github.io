@@ -8,8 +8,6 @@ Websites I recommend: (Quora) https://www.quora.com/ This is a good place where 
 
 # ChickenSoup360.github.io
 
-# ChickenSoup360.github.io
-
 ##1. 
 Felipe Enriquez Romero
 feroemro@my.waketech.edu
