@@ -1,4 +1,4 @@
-#About Me:
+#About Me
 
 ##My Interest : Some of my hobbies would include gaming, soccer and music
 
