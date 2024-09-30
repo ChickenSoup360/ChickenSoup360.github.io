@@ -2,8 +2,8 @@
 
 ##My Interest : Some of my hobbies would include gaming, soccer and music
 
-###Websites I recommend: (Quora) https://www.quora.com/ This is a good place where I like to find information and read.
-(Reddit) https://www.reddit.com/ I like this because you can join multiple communities with several interest as yourself.
+###Websites I recommend: [Quora] (https://www.quora.com/) This is a good place where I like to find information and read.
+[Reddit] (https://www.reddit.com/) I like this because you can join multiple communities with several interest as yourself.
 
 
 # ChickenSoup360.github.io
